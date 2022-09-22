@@ -266,6 +266,7 @@ class Service
     {
         return (new OAuthDesktopMobileAuthCodeGrant())
                 ->withClientSecret($config['clientSecret'])
-                ->withClientId($config['clientId']);
+                ->withClientId($config['clientId'])
+				->withOAuthScope('msads.manage');
     }
 }
