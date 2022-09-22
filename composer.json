@@ -1,8 +1,8 @@
 {
 	"description": "A Laravel Ads SDK for Google Ads, Bing Ads and Facebook Ads API",
 	"keywords": ["ads", "google-ads","bing-ads", "api", "facebook-ads"],
-	"name": "tmarois/laravel-ads-sdk",
-	"homepage": "https://github.com/tmarois/laravel-ads-sdk",
+	"name": "webmid/laravel-ads-sdk",
+	"homepage": "https://github.com/webmid/laravel-ads-sdk",
 	"type": "package",
 	"authors": [
         {
