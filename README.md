@@ -12,7 +12,7 @@ This is a wrapper for connecting each ad source into your Laravel application. T
 
 Use [Composer](http://getcomposer.org/) to install package.
 
-Run `composer require tmarois/laravel-ads-sdk`
+Run `composer require webmid/laravel-ads-sdk`
 
 # Config
 
